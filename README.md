@@ -1,1 +1,1 @@
-# Linear-and-Polynomial-regression
+## Current notebook contains process of building linear and polynomial regression for forecasting value of Boston houses. "Boston house prices" dataset from sklearn library will be used for this task.
